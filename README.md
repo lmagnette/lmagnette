@@ -23,7 +23,6 @@
 | DevApp Podcast                            | Jan 2025    | 🌐 Online               | The Future of Angular: Faster, Lighter, Stronger                        |
 | Angular Dev France                        | Jan 2025    | 🌐 Online               | Au Cœur de l'Odyssée: Migrer une application d'Angular 10 à 18          |
 
----
 
 ### 🗓️ 2024
 
@@ -42,7 +41,6 @@
 | Devoxx France 2024        | April 2024   | 🇫🇷 Paris, France               | Au Cœur de l'Odyssée: Migrer une application d'Angular 10 à 17   |
 | Jfokus 2024               | Feb 2024     | 🇸🇪 Stockholm, Sweden           | Unleashing the power of Angular: Navigating the latest releases and transformations |
 
----
 
 ### 🗓️ 2023
 
