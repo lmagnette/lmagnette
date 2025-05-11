@@ -9,9 +9,10 @@
 
 ### 🗓️ 2025
 
-| Event                                      | Date        | Location             | Talk(s)                                                                 |
+| Event                                      | Date        | Location             | Talk(s)                                                                  |
 |-------------------------------------------|-------------|-----------------------|--------------------------------------------------------------------------|
-| JavaCro 25                                | Sep 2025    | 🇭🇷 Croatia                 | AI-Powered Form Wizards: Chat, Click, Done                              |
+| Dev2Next                                  | Oct 2025    | 🇺🇸 USA, Colorado       | Bridging the Gap:Full-Stack Development Without the Headache            |
+| JavaCro 25                                | Sep 2025    | 🇭🇷 Croatia             | AI-Powered Form Wizards: Chat, Click, Done                              |
 | Voxxed days Luxembourg                    | Jun 2025    | 🇱🇺 Mondorf-les-Bains, Grand-Duchy of Luxembourg | Au Cœur de l'Odyssée: Migrer une application d'Angular 10 à 19          |
 | Devoxx Poland 2024                        | Jun 2025    | 🇵🇱 Kraków, Poland       | The Future of Angular: Faster, Lighter, Stronger                        |
 | MakeIT 2025 / JCON OpenBlend Slovenia     | May 2025    | 🇸🇮 Portorož, Slovenia   | - AI-Powered Form Wizards: Chat, Click, Done <br>- Bridging the Gap: Full-Stack Development Without the Headaches   |
